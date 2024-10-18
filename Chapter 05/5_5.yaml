@@ -1,0 +1,5 @@
+phases:
+  build:
+    commands:
+      - npm test # Running unit tests
+      - npm run integration-test # Running integration tests
